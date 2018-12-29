@@ -1,2 +1,2 @@
 # circle_detection
-An algorithm collection for circle detection
+An CV-based algorithm collection for circle detection
